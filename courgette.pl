@@ -427,6 +427,7 @@ Just to scratch the surface, look in the 't/features' directory for some simple 
   BDD & Dan North: http://dannorth.net/introducing-bdd
   Wikipedia Page: http://en.wikipedia.org/wiki/Behavior_Driven_Development
   Test::More (not mandatory but certainly useful): http://search.cpan.org/~mschwern/Test-Simple-0.86/lib/Test/More.pm
+  This project's GitHub page: http://github.com/moowahaha/p5-courgette/
 
 =head1 TODO
 
@@ -434,6 +435,7 @@ Just to scratch the surface, look in the 't/features' directory for some simple 
  - Case insensitivity.
  - Better, more modular code and make into distributable module.
  - Grab the usefully named "Test::Cucumber" and maybe do something useful with it.
+ - Added scenario outlines.
 
 =head1 THANKS
 
